@@ -1,3 +1,24 @@
+---
+layout: post
+comments: true
+#title:  "First post"
+title: "Firsttt"
+excerpt: "To my knowledge, LeCun et al. 1989 is the earliest real-world application of a neural net trained end-to-end with backpropagation. Can we improve on it using 33 years of progress in deep learning? What does 1989 deep learning look like to someone in 2022, and what will today's deep learning look like to someone in 2055?"
+date:   2024-04-14 07:00:00
+mathjax: false
+---
+
+<style>
+.post-header h1 {
+    font-size: 35px;
+}
+.post pre,
+.post code {
+    background-color: #fcfcfc;
+    font-size: 13px; /* make code smaller for this post... */
+}
+</style>
+
 # Pending
 - [ ] https://codeforces.com/contest/1914/problem/E2   I came up with a solution but even I don't fully understand why it works
 - [ ] https://codeforces.com/contest/1913/problem/D   Interesting DP problem, i think it is DP
