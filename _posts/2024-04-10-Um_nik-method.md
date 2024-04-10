@@ -50,8 +50,7 @@ At my current level, I can consistently solve until `problem C`, nevertheless I 
   - [Atcoder Problems](https://kenkoooo.com/atcoder/#/list/?fromDiff=1600&toDiff=1999&sortBy=solverCount&sortOrder=desc)
   - [Codeforces Problems](https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=1700-)
 
-____
-
+### High-Intermediate `[first reach low]`
 ...
 
 ---
