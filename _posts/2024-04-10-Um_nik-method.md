@@ -36,8 +36,8 @@ As someone who has been stuck quite a while in a plateau, I would like to try so
 
 There are tons of resources out there but it is important to be able to separate the real pearls.<br>Find problems according to your rating $$+200$$. AtCoder and Codeforces will do, these are pages to visualize the problems and its corresponding ratings, and keep track of the problems you already solved.
 
-- https://cftracker.netlify.app/contests
-- https://kenkoooo.com/atcoder
+- <https://cftracker.netlify.app/contests>
+- <https://kenkoooo.com/atcoder>
 
 > Do not be afraid of losing rating. At the end no matter how much you gain or loss, your rating will eventually find its place. That is, if you actual level corresponds to a rating equal to `rank` then the sum of all your rating changes across contests will lead to `rank`.  See [this video](https://www.youtube.com/watch?v=E-aylp6MZnM).
 
