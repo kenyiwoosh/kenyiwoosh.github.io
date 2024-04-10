@@ -81,6 +81,38 @@ eval: split test . loss 2.838382e-02. error 4.09%. misses: 82
 ```
 ````
 
+If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:
+
+{% raw %}
+{% highlight c++ linenos %} <br/> code code code <br/> {% endhighlight %}
+{% endraw %}
+
+The keyword `linenos` triggers display of line numbers.
+Produces something like this:
+
+{% highlight c++ linenos %}
+
+int main(int argc, char const \*argv[])
+{
+string myString;
+
+    cout << "input a string: ";
+    getline(cin, myString);
+    int length = myString.length();
+
+    char charArray = new char * [length];
+
+    charArray = myString;
+    for(int i = 0; i < length; ++i){
+        cout << charArray[i] << " ";
+    }
+
+    return 0;
+
+}
+
+{% endhighlight %}
+
 Links
 
 [helloo](https://www.youtube.com/watch?v=h49Bw2GLddA)
