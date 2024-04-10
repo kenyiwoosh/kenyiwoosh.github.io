@@ -19,11 +19,14 @@ mathjax: true
 }
 </style>
 
+<br>
 # Title 1 
 
 ## Title 2
 
 ### Title 3
+
+#### Tittle 4
 
 $$
 \int dx = something
@@ -33,6 +36,9 @@ _some physics?_
 $$
 \ket{\Psi} = \frac{\partial}{\partial}
 $$
+
+inline equations $a=1$, $\frac{1}{2}$
+
 **images?**
 
 <img src="/assets/puppy.png" width="100%" />
