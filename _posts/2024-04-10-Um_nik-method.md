@@ -19,7 +19,11 @@ mathjax: true
     font-size: 13px; /* make code smaller for this post... */
 }
 </style>
+## Log of solved problems
 
+[Link to spreadsheet](https://docs.google.com/spreadsheets/d/1_cvh_1Dn9l7P_vZ2F-5hmWu5f0wQMM9UtR11HFlsrsM/edit?usp=sharing)
+
+--- 
 **4-10-2024**
 
 I find it fascinating how some people is able to solve problems really fast in competitive programming. The ones with higher rating, the red ones ($$2300\geq$$), usually have a $$4\times$$ performace than the green or cyan ones ($$1600\geq x\geq1200$$). I would like to have that superpower, but unfortunately it is just too fun to quite even if one is average!
@@ -50,12 +54,6 @@ At my current level, I can consistently solve until `problem C`, nevertheless I 
 
 ### High-Intermediate `[first reach the top of the latter]`
 ...
-
----
-
-## Log of solved problems
-
-[Link to spreadsheet](https://docs.google.com/spreadsheets/d/1_cvh_1Dn9l7P_vZ2F-5hmWu5f0wQMM9UtR11HFlsrsM/edit?usp=sharing)
 
 ---
 
