@@ -65,5 +65,5 @@ At my current level, I can consistently solve until `problem C`, nevertheless I 
   - [[1st part](https://vjudge.net/contest/317361)], [[2nd part](https://vjudge.net/contest/317362)], [[3rd part](https://vjudge.net/contest/317363)], [Roadmap](https://docs.google.com/document/d/1-7Co93b504uyXyMjjE8bnLJP3d3QXvp_m1UjvbvdR2Y/edit)
 
 - Another good idea on how to practice is to watch screencasts and listen how they go through a problem. Some good channels are:
-  - [SecondThread](https://www.youtube.com/@SecondThread/videos), [ColidGalen](https://www.youtube.com/@ColinGalen/videos), [Umnik](https://www.youtube.com/@umnik_team/videos), [Errichto2](https://www.youtube.com/@Errichto2/videos), [Errichto]( https://www.youtube.com/@Errichto/videos).
+  - [SecondThread](https://www.youtube.com/@SecondThread/videos), [ColidGalen](https://www.youtube.com/@ColinGalen/videos), [Umnik](https://www.youtube.com/@umnik_team/videos), [Errichto2](https://www.youtube.com/@Errichto2/videos), [Errichto]( https://www.youtube.com/@Errichto/videos), [Geothermal](https://www.youtube.com/@geothermaljl/featured).
 - I was thinking about doing some notes on dynamic programming but I think I need to solve more problems.

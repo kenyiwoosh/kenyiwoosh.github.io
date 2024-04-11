@@ -1,11 +1,11 @@
 # Site settings
 title: blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "Musings of a confused scientist."
 baseurl: ""
 url: "http://kenyiwoosh.github.io"
-twitter_username: asd
-github_username:  asd
+twitter_username: Renzo64216429
+github_username:  TAOGenna
 
 # Build settings
 markdown: kramdown
