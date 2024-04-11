@@ -19,6 +19,7 @@ mathjax: true
     font-size: 13px; /* make code smaller for this post... */
 }
 </style>
+---
 ## Log of solved problems
 
 [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1_cvh_1Dn9l7P_vZ2F-5hmWu5f0wQMM9UtR11HFlsrsM/edit?usp=sharing)
