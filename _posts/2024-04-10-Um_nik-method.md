@@ -22,8 +22,6 @@ mathjax: true
 
 **4-10-2024**
 
-`current mmr = 1352`
-
 I find it fascinating how some people is able to solve problems really fast in competitive programming. The ones with higher rating, the red ones ($$2300\geq$$), usually have a $$4\times$$ performace than the green or cyan ones ($$1600\geq x\geq1200$$). I would like to have that superpower, but unfortunately it is just too fun to quite even if one is average!
 
 As someone who has been stuck quite a while in a plateau, I would like to try some strategies that might help "hack" how someone can get out of that low _mmr_.
@@ -50,7 +48,7 @@ At my current level, I can consistently solve until `problem C`, nevertheless I 
   - [Atcoder Problems](https://kenkoooo.com/atcoder/#/list/?fromDiff=1600&toDiff=1999&sortBy=solverCount&sortOrder=desc)
   - [Codeforces Problems](https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=1700-)
 
-### High-Intermediate `[first reach low]`
+### High-Intermediate `[first reach the top of the latter]`
 ...
 
 ---
